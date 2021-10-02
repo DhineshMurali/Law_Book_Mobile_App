@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:id="@+id/first">
+     <item android:id="@+id/criminal"
+     android:title="Criminal Law"
+     android:icon="@drawable/ic_security"/>
+    <item android:id="@+id/civil"
+        android:title="Civil Law"
+        android:icon="@drawable/ic_home"/>
+    <item android:id="@+id/common"
+        android:title="Common Law"
+        android:icon="@drawable/ic_people"/>
+    <item android:id="@+id/traffic"
+        android:title="Statutory Law"
+        android:icon="@drawable/ic_traffic"/>
+
+</group>
+</menu>
